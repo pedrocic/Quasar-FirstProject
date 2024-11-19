@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "@quasar/extras": "^1.0.0",
-        "firebase": "^7.8.1",
+        "firebase": "^10.9.0",
         "layouts": "^3.0.2",
         "pages": "0.0.16",
         "quasar": "^1.0.0",
